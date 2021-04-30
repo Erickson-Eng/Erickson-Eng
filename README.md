@@ -14,7 +14,7 @@
 
 ## Projects
 #### 2018
-- Analysis of accidents on federal highways (https://github.com/Erickson-Eng/Projeto-Estatistica)
+- [Analysis of accidents on federal highways] (https://github.com/Erickson-Eng/Projeto-Estatistica)
 #### 2019
 
 #### 2020
