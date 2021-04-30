@@ -26,5 +26,5 @@
 - [Podcast Website](https://github.com/Erickson-Eng/NLW-5_Reactjs)
 - [Structural Design Patterns](https://github.com/Erickson-Eng/PadroesDeProjeto)
 - [Implementation of the observer standard](https://github.com/Erickson-Eng/PatternDesignerObserver)
-- [Marketplace](https://github.com/Erickson-Eng/Marketplace) *Under development*
+- [Marketplace](https://github.com/Erickson-Eng/Marketplace "Prototyping phase") 
 
