@@ -14,15 +14,13 @@
 
 ## Projects
 #### 2018
-  <p>
-<a href= " https://github.com/Erickson-Eng/Projeto-Estatistica ">Analysis of accidents on federal highways </a>
-  </p>
+- Analysis of accidents on federal highways (https://github.com/Erickson-Eng/Projeto-Estatistica)
 #### 2019
 
 #### 2020
-<a href =" https://github.com/Erickson-Eng/Banco-de-dados"> Project for database discipline </a>
+- <a href =" https://github.com/Erickson-Eng/Banco-de-dados"> Project for database discipline </a>
 #### 2021
-<a href =" https://github.com/Erickson-Eng/Rasa ">Chatbot prototyping to optimize search and results in call centers</a>
-<a href =" https://github.com/Erickson-Eng/NLW-5_Reactjs">Podcast Website</a> 
-<a href =" https://github.com/Erickson-Eng/PadroesDeProjeto">  Structural Design Patterns </a>
+- <a href =" https://github.com/Erickson-Eng/Rasa ">Chatbot prototyping to optimize search and results in call centers</a>
+- <a href =" https://github.com/Erickson-Eng/NLW-5_Reactjs">Podcast Website</a> 
+- <a href =" https://github.com/Erickson-Eng/PadroesDeProjeto">  Structural Design Patterns </a>
 
