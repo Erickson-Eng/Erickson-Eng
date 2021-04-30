@@ -13,6 +13,7 @@
 
 
 ## Projects
+<p>
 #### 2018
 <a href= " https://github.com/Erickson-Eng/Projeto-Estatistica ">Analysis of accidents on federal highways </a>
 #### 2019
@@ -23,3 +24,4 @@
 <a href =" https://github.com/Erickson-Eng/Rasa ">Chatbot prototyping to optimize search and results in call centers</a>
 <a href =" https://github.com/Erickson-Eng/NLW-5_Reactjs">Podcast Website</a> 
 <a href =" https://github.com/Erickson-Eng/PadroesDeProjeto">  Structural Design Patterns </a>
+</p>
