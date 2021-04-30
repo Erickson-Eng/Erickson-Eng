@@ -18,9 +18,9 @@
 #### 2019
 
 #### 2020
-- <a href =" https://github.com/Erickson-Eng/Banco-de-dados"> Project for database discipline </a>
+- [Project for database discipline](https://github.com/Erickson-Eng/Banco-de-dados)
 #### 2021
-- <a href =" https://github.com/Erickson-Eng/Rasa ">Chatbot prototyping to optimize search and results in call centers</a>
-- <a href =" https://github.com/Erickson-Eng/NLW-5_Reactjs">Podcast Website</a> 
-- <a href =" https://github.com/Erickson-Eng/PadroesDeProjeto">  Structural Design Patterns </a>
+- [Chatbot prototyping to optimize search and results in call centers](https://github.com/Erickson-Eng/Rasa)
+- [Podcast Website](https://github.com/Erickson-Eng/NLW-5_Reactjs)
+- [Structural Design Patterns](https://github.com/Erickson-Eng/PadroesDeProjeto)
 
