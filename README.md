@@ -1,6 +1,8 @@
 
-# hi, i'm Erickson Tulio!
+## Welcome
 
+
+- Name: Erickson Tulio
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-Erickson%20Tulio-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erickson-eng/)](https://www.linkedin.com/in/erickson-eng/) 
 [![Gmail Badge](https://img.shields.io/badge/-erickson.tulio96@gmail.com-3333cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickson.tulio96@gmail.com)](mailto:erickson.tulio96@gmail.com)
@@ -8,8 +10,10 @@
 - Location: Campina Grande - PB.
 - Advanced level languages: Java and Python.
 - Databases: Mysql and Mongodb.
-- learning frameworks: Springboot, React and Nodejs.
-- Front-end: HTML, css
+- Affinities: Data Science and Artificial intelligence.
+- Frameworks Back-end: Springboot and Node .
+- Frrameworks Front-end: React
+- Front-end: HTML and CSS
 
 
 ## Projects
