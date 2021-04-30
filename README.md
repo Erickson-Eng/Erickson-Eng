@@ -2,7 +2,7 @@
 ## Welcome
 
 
-### Name: Erickson Tulio
+## Name: Erickson Tulio
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-Erickson%20Tulio-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erickson-eng/)](https://www.linkedin.com/in/erickson-eng/) 
 [![Gmail Badge](https://img.shields.io/badge/-erickson.tulio96@gmail.com-3333cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickson.tulio96@gmail.com)](mailto:erickson.tulio96@gmail.com)
@@ -17,13 +17,13 @@
 
 
 ## Projects
-#### 2018
+### 2018
 - [Analysis of accidents on federal highways](https://github.com/Erickson-Eng/Projeto-Estatistica)
-#### 2019
+### 2019
 
-#### 2020
+### 2020
 - [Project for database discipline](https://github.com/Erickson-Eng/Banco-de-dados)
-#### 2021
+### 2021
 - [Rest api project with java spring boot](https://github.com/Erickson-Eng/SpringBotApp)
 - [Project with node and express](https://github.com/Erickson-Eng/Projeto-VGB)
 - [Chatbot prototyping to optimize search and results in call centers](https://github.com/Erickson-Eng/Rasa) *Research project*
