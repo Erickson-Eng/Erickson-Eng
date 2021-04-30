@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Erickson%20Tulio-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erickson-eng/)](https://www.linkedin.com/in/erickson-eng/) 
+<p></p>
 [![Gmail Badge](https://img.shields.io/badge/-erickson.tulio96@gmail.com-3333cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickson.tulio96@gmail.com)](mailto:erickson.tulio96@gmail.com)
 <!--
 **Erickson-Eng/Erickson-Eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
