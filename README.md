@@ -12,7 +12,7 @@
 - Databases: Mysql and Mongodb.
 - Affinities: Data Science and Artificial intelligence.
 - Frameworks Back-end: Springboot and Node .
-- Frrameworks Front-end: React
+- Frameworks Front-end: React
 - Front-end: HTML and CSS
 
 
