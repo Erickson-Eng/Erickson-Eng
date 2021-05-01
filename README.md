@@ -17,6 +17,8 @@
 
 
 ## Projects
+### 2017
+- [Text Automator](https://github.com/Erickson-Eng/Retencao)
 ### 2018
 - [Analysis of accidents on federal highways](https://github.com/Erickson-Eng/Projeto-Estatistica)
 ### 2019
