@@ -33,4 +33,5 @@
 - [Structural Design Patterns](https://github.com/Erickson-Eng/PadroesDeProjeto)
 - [Implementation of the observer standard](https://github.com/Erickson-Eng/PatternDesignerObserver)
 - [Marketplace](https://github.com/Erickson-Eng/Marketplace "Prototyping phase") 
+- [Project Full Stack](https://github.com/Erickson-Eng/fullstackproject) *In development*
 
