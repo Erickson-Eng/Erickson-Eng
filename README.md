@@ -9,6 +9,7 @@
 - Formation: Completing computer engineering
 - Location: Campina Grande - PB.
 - Advanced level languages: Java and Python.
+- Learning languages: JavaScript, Typescript and C#
 - Databases: Mysql and Mongodb.
 - Affinities: Data Science and Artificial intelligence.
 - Frameworks Back-end: Springboot and Node .
