@@ -27,8 +27,8 @@
 ### 2020
 - [Project for database discipline](https://github.com/Erickson-Eng/Banco-de-dados) *finished*
 ### 2021
-- [Rest api project with java spring boot](https://github.com/Erickson-Eng/SpringBotApp) 
-- [Project with node and express](https://github.com/Erickson-Eng/Projeto-VGB)
+- [Rest api project with java spring boot](https://github.com/Erickson-Eng/SpringBotApp) *In production*
+- [Project with node and express](https://github.com/Erickson-Eng/Projeto-VGB) *finished*
 - [Chatbot prototyping to optimize search and results in call centers](https://github.com/Erickson-Eng/Rasa) *Research project* 
 - [Podcast Website](https://github.com/Erickson-Eng/NLW-5_Reactjs) *finished*
 - [Structural Design Patterns](https://github.com/Erickson-Eng/PadroesDeProjeto) *finished*
