@@ -19,20 +19,20 @@
 
 ## Projects
 ### 2017
-- [Text Automator](https://github.com/Erickson-Eng/Retencao)
+- [Text Automator](https://github.com/Erickson-Eng/Retencao) *finished*
 ### 2018
-- [Analysis of accidents on federal highways](https://github.com/Erickson-Eng/Projeto-Estatistica)
+- [Analysis of accidents on federal highways](https://github.com/Erickson-Eng/Projeto-Estatistica) *finished*
 ### 2019
 
 ### 2020
-- [Project for database discipline](https://github.com/Erickson-Eng/Banco-de-dados)
+- [Project for database discipline](https://github.com/Erickson-Eng/Banco-de-dados) *finished*
 ### 2021
 - [Rest api project with java spring boot](https://github.com/Erickson-Eng/SpringBotApp) 
 - [Project with node and express](https://github.com/Erickson-Eng/Projeto-VGB)
 - [Chatbot prototyping to optimize search and results in call centers](https://github.com/Erickson-Eng/Rasa) *Research project* 
-- [Podcast Website](https://github.com/Erickson-Eng/NLW-5_Reactjs) 
-- [Structural Design Patterns](https://github.com/Erickson-Eng/PadroesDeProjeto) 
-- [Implementation of the observer standard](https://github.com/Erickson-Eng/PatternDesignerObserver) 
+- [Podcast Website](https://github.com/Erickson-Eng/NLW-5_Reactjs) *finished*
+- [Structural Design Patterns](https://github.com/Erickson-Eng/PadroesDeProjeto) *finished*
+- [Implementation of the observer standard](https://github.com/Erickson-Eng/PatternDesignerObserver) *finished*
 - [Marketplace](https://github.com/Erickson-Eng/Marketplace "Prototyping phase") 
-- [Project Full Stack](https://github.com/Erickson-Eng/fullstackproject) 
+- [Project Full Stack](https://github.com/Erickson-Eng/fullstackproject) *finished*
 
