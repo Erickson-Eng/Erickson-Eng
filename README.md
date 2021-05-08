@@ -27,12 +27,12 @@
 ### 2020
 - [Project for database discipline](https://github.com/Erickson-Eng/Banco-de-dados)
 ### 2021
-- [Rest api project with java spring boot](https://github.com/Erickson-Eng/SpringBotApp)
+- [Rest api project with java spring boot](https://github.com/Erickson-Eng/SpringBotApp) ✔️
 - [Project with node and express](https://github.com/Erickson-Eng/Projeto-VGB)
-- [Chatbot prototyping to optimize search and results in call centers](https://github.com/Erickson-Eng/Rasa) *Research project*
-- [Podcast Website](https://github.com/Erickson-Eng/NLW-5_Reactjs)
-- [Structural Design Patterns](https://github.com/Erickson-Eng/PadroesDeProjeto)
-- [Implementation of the observer standard](https://github.com/Erickson-Eng/PatternDesignerObserver)
+- [Chatbot prototyping to optimize search and results in call centers](https://github.com/Erickson-Eng/Rasa) *Research project* ✔️
+- [Podcast Website](https://github.com/Erickson-Eng/NLW-5_Reactjs) ✔️
+- [Structural Design Patterns](https://github.com/Erickson-Eng/PadroesDeProjeto) ✔️
+- [Implementation of the observer standard](https://github.com/Erickson-Eng/PatternDesignerObserver) ✔️
 - [Marketplace](https://github.com/Erickson-Eng/Marketplace "Prototyping phase") 
-- [Project Full Stack](https://github.com/Erickson-Eng/fullstackproject) *In development*
+- [Project Full Stack](https://github.com/Erickson-Eng/fullstackproject) ✔️
 
