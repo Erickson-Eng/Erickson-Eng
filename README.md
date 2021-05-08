@@ -33,6 +33,6 @@
 - [Podcast Website](https://github.com/Erickson-Eng/NLW-5_Reactjs) *finished*
 - [Structural Design Patterns](https://github.com/Erickson-Eng/PadroesDeProjeto) *finished*
 - [Implementation of the observer standard](https://github.com/Erickson-Eng/PatternDesignerObserver) *finished*
-- [Marketplace](https://github.com/Erickson-Eng/Marketplace "Prototyping phase") 
+- [Marketplace](https://github.com/Erickson-Eng/Marketplace "Prototyping phase") *in production*
 - [Project Full Stack](https://github.com/Erickson-Eng/fullstackproject) *finished*
 
