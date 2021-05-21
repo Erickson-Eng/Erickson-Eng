@@ -31,7 +31,7 @@
 - [Project with node and express](https://github.com/Erickson-Eng/Projeto-VGB) *finished*
 - [Chatbot prototyping to optimize search and results in call centers](https://github.com/Erickson-Eng/Rasa) *Research project* 
 - [Podcast Website](https://github.com/Erickson-Eng/NLW-5_Reactjs) *finished*
-- [Design patterns with java](https://github.com/Erickson-Eng/PadroesDeProjeto) *finished*
+- [Design patterns with java](https://github.com/Erickson-Eng/PadroesDeProjeto) *In production*
 - [Marketplace](https://github.com/Erickson-Eng/Marketplace "Prototyping phase") *in production*
 - [Top dev week design](https://github.com/Erickson-Eng/fullstackproject) *finished*
 
