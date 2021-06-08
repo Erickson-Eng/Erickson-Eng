@@ -21,3 +21,4 @@
 - [Chatbot prototyping to optimize search and results in call centers](https://github.com/Erickson-Eng/Rasa) *Research project* 
 - [Podcast Website](https://github.com/Erickson-Eng/NLW-5_Reactjs) *finished*
 - [Top dev week design](https://github.com/Erickson-Eng/fullstackproject) *finished*
+- [WebScraping](https://github.com/Erickson-Eng/WebScraping) *finished*
