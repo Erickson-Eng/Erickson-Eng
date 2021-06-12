@@ -18,7 +18,7 @@
 ## Most relevant projects
 - [Analysis of accidents on federal highways](https://github.com/Erickson-Eng/Projeto-Estatistica) *finished*
 - [Project for database discipline](https://github.com/Erickson-Eng/Banco-de-dados) *finished*
-- [Chatbot prototyping to optimize search and results in call centers](https://github.com/Erickson-Eng/Rasa) *Research project* 
+- [Chatbot prototyping to optimize search and results in call centers](https://github.com/Erickson-Eng/Projeto-de-Pesquisa) *Research project* 
 - [Podcast Website](https://github.com/Erickson-Eng/NLW-5_Reactjs) *finished*
 - [Top dev week design](https://github.com/Erickson-Eng/fullstackproject) *finished*
 - [WebScraping](https://github.com/Erickson-Eng/WebScraping) *finished*
