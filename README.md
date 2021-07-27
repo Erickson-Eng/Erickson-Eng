@@ -16,11 +16,11 @@
 - Front-end: HTML and CSS.
 
 ## Most relevant projects
-- [Analysis of accidents on federal highways](https://github.com/Erickson-Eng/Projeto-Estatistica) *finished* Python
-- [Project for database discipline](https://github.com/Erickson-Eng/Banco-de-dados) *finished* Java and Mysql
-- [Chatbot prototyping to optimize search and results in call centers](https://github.com/Erickson-Eng/Projeto-de-Pesquisa) *Research project* Python and RasaNLU
-- [Podcast Website](https://github.com/Erickson-Eng/NLW-5_Reactjs) *finished* React
-- [Top dev week design](https://github.com/Erickson-Eng/fullstackproject) *finished* Spring and React
-- [WebScraping](https://github.com/Erickson-Eng/WebScraping) *finished* Java
+- [Analysis of accidents on federal highways](https://github.com/Erickson-Eng/Projeto-Estatistica) *finished Python*
+- [Project for database discipline](https://github.com/Erickson-Eng/Banco-de-dados) *finished Java and Mysql*
+- [Chatbot prototyping to optimize search and results in call centers](https://github.com/Erickson-Eng/Projeto-de-Pesquisa) *Research project Python and RasaNLU*
+- [Podcast Website](https://github.com/Erickson-Eng/NLW-5_Reactjs) *finished React*
+- [Top dev week design](https://github.com/Erickson-Eng/fullstackproject) *finished Spring and React *
+- [WebScraping](https://github.com/Erickson-Eng/WebScraping) *finished Java *
 - [Learning C#](https://github.com/Erickson-Eng/AspNET) *finished*
-- [Web Project](https://github.com/Erickson-Eng/Quatty) *developing* Spring and React
+- [Web Project](https://github.com/Erickson-Eng/Quatty) *developing Spring and React*
