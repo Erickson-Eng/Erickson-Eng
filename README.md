@@ -22,3 +22,4 @@
 - [Podcast Website](https://github.com/Erickson-Eng/NLW-5_Reactjs) *finished*
 - [Top dev week design](https://github.com/Erickson-Eng/fullstackproject) *finished*
 - [WebScraping](https://github.com/Erickson-Eng/WebScraping) *finished*
+- [Web Project](https://github.com/Erickson-Eng/Quatty) *developing*
