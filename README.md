@@ -24,3 +24,5 @@
 - [WebScraping](https://github.com/Erickson-Eng/WebScraping) *Finished Java*
 - [Learning C#](https://github.com/Erickson-Eng/AspNET) *Finished*
 - [Web Project](https://github.com/Erickson-Eng/Quatty) *Developing Spring and React*
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickson-eng&exclude_repo=github-readme-stats,Projeto-de-Pesquisa)](https://github.com/anuraghazra/github-readme-stats)
