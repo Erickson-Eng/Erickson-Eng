@@ -1,28 +1,42 @@
+# Welcome to my github
 
-## Welcome
+## About me
 
-
-## Name: Erickson Tulio
-- 📫 How to reach me: 
-[![Linkedin Badge](https://img.shields.io/badge/-Erickson%20Tulio-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erickson-eng/)](https://www.linkedin.com/in/erickson-eng/) 
-[![Gmail Badge](https://img.shields.io/badge/-erickson.tulio96@gmail.com-3333cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickson.tulio96@gmail.com)](mailto:erickson.tulio96@gmail.com)
-- Formation: Completing computer engineering.
+- Study: Bachelor of Computer Engineering
+- University: [IFPB](https://www.ifpb.edu.br/)
+- Curiosities: Enthusiast of sports and technology applications in them
 - Location: Campina Grande - PB.
 - Experience with: Java and Python.
-- Learning languages: JavaScript, Typescript and C#.
-- Databases: Mysql, Mongodb, Postgresql.
 - Affinities: Data Science and Artificial intelligence.
-- Frameworks Back-end: Springboot and NodeJS.
-- Front-end: HTML and CSS.
+
 
 ## Most relevant projects
-- [Analysis of accidents on federal highways](https://github.com/Erickson-Eng/Projeto-Estatistica) *Finished Python*
-- [Project for database discipline](https://github.com/Erickson-Eng/Banco-de-dados) *Finished Java and Mysql*
-- [Chatbot prototyping to optimize search and results in call centers](https://github.com/Erickson-Eng/Projeto-de-Pesquisa) *Research project Python and RasaNLU*
-- [Podcast Website](https://github.com/Erickson-Eng/NLW-5_Reactjs) *Finished React*
-- [Top dev week design](https://github.com/Erickson-Eng/fullstackproject) *Finished Spring and React*
-- [WebScraping](https://github.com/Erickson-Eng/WebScraping) *Finished Java*
-- [Learning C#](https://github.com/Erickson-Eng/AspNET) *Finished*
-- [Web Project](https://github.com/Erickson-Eng/Quatty) *Developing Spring and React*
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickson-eng&exclude_repo=github-readme-stats,Projeto-de-Pesquisa)](https://github.com/anuraghazra/github-readme-stats)
+
+- Chatbots for telemarketing on telegram: [Python and Rasa](https://github.com/Erickson-Eng/Projeto-de-Pesquisa) *Finished*
+- Federal Highway Police Data Analysis: [Python and Pandas](https://github.com/Erickson-Eng/Projeto-Estatistica) *Finished*
+- Dashboard for Sales: [Spring and React](https://github.com/Erickson-Eng/fullstackproject) *Finished*
+- Database writing application: [Java and Mysql](https://github.com/Erickson-Eng/Banco-de-dados) *Finished*
+- Podcast Application: [React](https://github.com/Erickson-Eng/NLW-5_Reactjs) *Finished*
+- Application for basketball teams [Java and React](https://github.com/Erickson-Eng/Basquete) *developing*
+
+#
+
+<div align= "center"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickson-eng&exclude_repo=Projeto-de-Pesquisa&layout=compact&theme=radical">
+</p>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+<div><br>
+  <a href="https://www.instagram.com/ericksontulio.eng/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/cellash" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:erickson.tulio96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/erickson-eng/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
