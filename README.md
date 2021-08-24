@@ -19,10 +19,10 @@
 - Podcast Application: [React](https://github.com/Erickson-Eng/NLW-5_Reactjs) *Finished*
 - Application for basketball teams [Java and React](https://github.com/Erickson-Eng/Basquete) *developing*
 
-#
+## Languages most used in projects
 
 <div align= "center"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickson-eng&exclude_repo=Projeto-de-Pesquisa&layout=compact&theme=radical">
+    <img width="450" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickson-eng&exclude_repo=Projeto-de-Pesquisa&layout=compact&theme=radical">
 </p>
   
 <div style="display: inline_block"><br>
