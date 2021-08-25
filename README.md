@@ -29,7 +29,7 @@
 ## Languages most used in projects
 
 <div align= "center"> 
-    <img width="450" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickson-eng&layout=compact&theme=radical">
+    <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickson-eng&langs_count=10&theme=radical">
 </p>
   
 <div style="display: inline_block"><br>
