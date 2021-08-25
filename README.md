@@ -42,3 +42,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+## Coding time from 8/25/2021
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ericksontulio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
