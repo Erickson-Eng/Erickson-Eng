@@ -1,5 +1,12 @@
 # Welcome to my github
 
+<div align="center">
+  <a href="https://www.instagram.com/ericksontulio.eng/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/cellash" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:erickson.tulio96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/erickson-eng/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 ## About me
 
 - Study: Bachelor of Computer Engineering
@@ -13,7 +20,7 @@
 
 ## Most relevant projects
 
-- Chatbots for telemarketing on telegram: [Python and Rasa](https://github.com/Erickson-Eng/Projeto-de-Pesquisa) *Finished*
+- Chatbots for telemarketing on telegram: [Python and Rasa](https://github.com/Erickson-Eng/PesquisaChatbot) *Finished*
 - Federal Highway Police Data Analysis: [Python and Pandas](https://github.com/Erickson-Eng/Projeto-Estatistica) *Finished*
 - Dashboard for Sales: [Spring and React](https://github.com/Erickson-Eng/fullstackproject) *Finished*
 - Database writing application: [Java and Mysql](https://github.com/Erickson-Eng/Banco-de-dados) *Finished*
@@ -22,24 +29,12 @@
 
 ## My projects use
 
-<div align= "center"> 
-    <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickson-eng&langs_count=10&theme=dark&layout=compact">
-</div>
-
-## Time developing from 8/25/2021
-
-<div align="center">
+<div  align="center "> 
+    <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickson-eng&langs_count=10&theme=dark&layout=compact&exlude_repo=PesquisaChatbot"/>
     <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=ericksontulio&layout=compact&theme=dark">
 </div>
 
-## Ways of contact
 
-<div align="center">
-  <a href="https://www.instagram.com/ericksontulio.eng/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/cellash" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:erickson.tulio96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/erickson-eng/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
