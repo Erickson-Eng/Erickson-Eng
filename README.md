@@ -25,7 +25,7 @@
 - Dashboard for Sales: [Spring and React](https://github.com/Erickson-Eng/Dashboard-for-sales) *Finished* [Deploy](https://erickson-sds3.netlify.app/)
 - Database writing application: [Java and Mysql](https://github.com/Erickson-Eng/Banco-de-dados) *Finished*
 - Podcast Application: [React](https://github.com/Erickson-Eng/NLW-5_Reactjs) *Finished*
-- API for basketball [Java](https://github.com/Erickson-Eng/API-Athlete) *developing*
+- API for Athletics [Java](https://github.com/Erickson-Eng/API-Athlete) *developing*
 
 ## My projects use
 
