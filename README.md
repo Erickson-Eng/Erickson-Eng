@@ -30,7 +30,7 @@
 ## My projects use
 
 <div  align="center "> 
-    <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickson-eng&exlude_repo=PesquisaChatbot&langs_count=10&theme=dark&layout=compact"/>
+    <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickson-eng&exclude_repo=PesquisaChatbot&langs_count=10&theme=dark&layout=compact"/>
     <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ericksontulio&layout=compact&theme=dark">
 </div>
 
