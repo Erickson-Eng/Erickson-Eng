@@ -29,7 +29,7 @@
 - Schedule implementation using servlet and jsp [Java](https://github.com/Erickson-Eng/AgendaServlet) *Finished*
 - Software Testing for a Blood Donation Program [Java](https://github.com/Erickson-Eng/doacao-de-sangue) *Finished*
 - Digital system in verilog [HDL](https://github.com/Erickson-Eng/VerificacaoSistemaDigitais) *Finished*
-- Sport-oriented project [Java, React and MySQL](https://github.com/Erickson-Eng/Basquete) *Developing*
+- Sport-oriented project [Java, React and MySQL](https://github.com/Erickson-Eng/Quattys) *Developing*
 
 ## My projects use
 
