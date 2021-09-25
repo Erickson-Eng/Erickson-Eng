@@ -25,11 +25,11 @@
 - Dashboard for Sales: [Spring and React](https://github.com/Erickson-Eng/Dashboard-for-sales) *Finished* [Deploy](https://erickson-sds3.netlify.app/)
 - Database writing application: [Java and Mysql](https://github.com/Erickson-Eng/Banco-de-dados) *Finished*
 - Podcast Application: [React](https://github.com/Erickson-Eng/NLW-5_Reactjs) *Finished*
-- API for Athletics [Java](https://github.com/Erickson-Eng/API-Athlete) *developing*
-- schedule implementation using servlet and jsp [Java](https://github.com/Erickson-Eng/AgendaServlet)
-- Software Testing for a Blood Donation Program [Java](https://github.com/Erickson-Eng/doacao-de-sangue)
-- Digital system in verilog [HDL](https://github.com/Erickson-Eng/VerificacaoSistemaDigitais)
-- Sport-oriented project [Java, React and MySQL](https://github.com/Erickson-Eng/Basquete)
+- API for Athletics [Java](https://github.com/Erickson-Eng/API-Athlete) *Finished*
+- Schedule implementation using servlet and jsp [Java](https://github.com/Erickson-Eng/AgendaServlet) *Finished*
+- Software Testing for a Blood Donation Program [Java](https://github.com/Erickson-Eng/doacao-de-sangue) *Finished*
+- Digital system in verilog [HDL](https://github.com/Erickson-Eng/VerificacaoSistemaDigitais) *Finished*
+- Sport-oriented project [Java, React and MySQL](https://github.com/Erickson-Eng/Basquete) *Developing*
 
 ## My projects use
 
