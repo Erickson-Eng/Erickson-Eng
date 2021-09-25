@@ -27,6 +27,9 @@
 - Podcast Application: [React](https://github.com/Erickson-Eng/NLW-5_Reactjs) *Finished*
 - API for Athletics [Java](https://github.com/Erickson-Eng/API-Athlete) *developing*
 - schedule implementation using servlet and jsp [Java](https://github.com/Erickson-Eng/AgendaServlet)
+- Software Testing for a Blood Donation Program [Java](https://github.com/Erickson-Eng/doacao-de-sangue)
+- Digital system in verilog [HDL](https://github.com/Erickson-Eng/VerificacaoSistemaDigitais)
+- 
 
 ## My projects use
 
