@@ -11,6 +11,8 @@
 
 - Study: Bachelor of Computer Engineering
 - University: [IFPB](https://www.ifpb.edu.br/)
+- Scholarship in: [IEL BA](https://www.ielbahia.com.br/)
+- Working with: Developing Spring Boot Applications
 - Curiosities: Enthusiast of sports and technology applications in them
 - Location: Campina Grande - PB.
 - Experience with: Java and Python.
