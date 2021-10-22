@@ -22,15 +22,29 @@
 
 ## Most relevant projects
 
-- Chatbots for telemarketing on telegram: [Python and Rasa](https://github.com/Erickson-Eng/PesquisaChatbot) *Finished*
-- Federal Highway Police Data Analysis: [Python and Pandas](https://github.com/Erickson-Eng/Projeto-Estatistica) *Finished*
+### Java
+
 - Dashboard for Sales: [Spring and React](https://github.com/Erickson-Eng/Dashboard-for-sales) *Finished* [Deploy](https://erickson-sds3.netlify.app/)
 - Database writing application: [Java and Mysql](https://github.com/Erickson-Eng/Banco-de-dados) *Finished*
-- Podcast Application: [React](https://github.com/Erickson-Eng/NLW-5_Reactjs) *Finished*
 - Schedule implementation using servlet and jsp [Java](https://github.com/Erickson-Eng/AgendaServlet) *Finished*
 - Software Testing for a Blood Donation Program [Java](https://github.com/Erickson-Eng/doacao-de-sangue) *Finished*
-- Digital system in verilog [HDL](https://github.com/Erickson-Eng/VerificacaoSistemaDigitais) *Finished*
 - Sport-oriented project [Spring Boot and MySQL](https://github.com/Erickson-Eng/quatty-backend) *Developing*
+- Contact manager with servlet and jsp [Servlet and JSP](https://github.com/Erickson-Eng/Agenda-Servlet)*Finished*
+- Bookstore with JSF and PrimeFaces [JSF and Primefaces](https://github.com/Erickson-Eng/Bookshop-JSF)
+- Software Testing Course Project [Java](https://github.com/Erickson-Eng/doacao-de-sangue)
+
+### Python
+
+- Chatbots for telemarketing on telegram: [Python and Rasa](https://github.com/Erickson-Eng/PesquisaChatbot) *Finished*
+- Federal Highway Police Data Analysis: [Python and Pandas](https://github.com/Erickson-Eng/Projeto-Estatistica) *Finished*
+
+### HDL
+
+- Digital system in verilog [HDL](https://github.com/Erickson-Eng/VerificacaoSistemaDigitais) *Finished*
+
+### React
+
+- Podcast Application: [React](https://github.com/Erickson-Eng/NLW-5_Reactjs) *Finished*
 
 ## My projects use
 
