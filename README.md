@@ -29,9 +29,9 @@
 - Schedule implementation using servlet and jsp [Java](https://github.com/Erickson-Eng/AgendaServlet) *Finished*
 - Software Testing for a Blood Donation Program [Java](https://github.com/Erickson-Eng/doacao-de-sangue) *Finished*
 - Sport-oriented project [Spring Boot and MySQL](https://github.com/Erickson-Eng/quatty-backend) *Developing*
-- Contact manager with servlet and jsp [Servlet and JSP](https://github.com/Erickson-Eng/Agenda-Servlet)*Finished*
-- Bookstore with JSF and PrimeFaces [JSF and Primefaces](https://github.com/Erickson-Eng/Bookshop-JSF)
-- Software Testing Course Project [Java](https://github.com/Erickson-Eng/doacao-de-sangue)
+- Contact manager with servlet and jsp [Servlet and JSP](https://github.com/Erickson-Eng/Agenda-Servlet) *Finished*
+- Bookstore with JSF and PrimeFaces [JSF and Primefaces](https://github.com/Erickson-Eng/Bookshop-JSF) *Finished*
+- Software Testing Course Project [Java](https://github.com/Erickson-Eng/doacao-de-sangue) *Finished*
 
 ### Python
 
