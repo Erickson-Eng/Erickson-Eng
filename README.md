@@ -49,11 +49,9 @@
 ## My projects use
 
 <div  align="center "> 
-    <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickson-eng&langs_count=10&theme=dark&layout=compact"/>
+    <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickson-eng&hide=python,html&langs_count=10&theme=dark&layout=compact"/>
     <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ericksontulio&layout=compact&theme=dark">
 </div>
-
-
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
