@@ -1,64 +1,18 @@
-# Welcome to my github
 
-<div align="center">
-  <a href="https://www.instagram.com/ericksontulio.eng/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/cellash" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:erickson.tulio96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/erickson-eng/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ericksonazevedo.eng) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erickson-eng) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/cellash) 
 
-## About me
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=erickson-eng&theme=algolia&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=erickson-eng&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=erickson-eng&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-- Study: Bachelor of Computer Engineering
-- University: [IFPB](https://www.ifpb.edu.br/)
-- Ford project grantee by IEL: [IEL BA](https://www.ielbahia.com.br/)
-- Working with: Developing Spring Boot Applications
-- Curiosities: Enthusiast of sports and technology applications in them
-- Location: Campina Grande - PB.
-- Experience with: Java and Python.
-- Affinities: Data Science and Artificial intelligence.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+[![](https://visitcount.itsvg.in/api?id=erickson-eng&icon=3&color=0)](https://visitcount.itsvg.in)
 
-
-## Most relevant projects
-
-### Java
-
-- Dashboard for Sales: [Spring and React](https://github.com/Erickson-Eng/Dashboard-for-sales) *Finished* [Deploy](https://erickson-sds3.netlify.app/)
-- Database writing application: [Java and Mysql](https://github.com/Erickson-Eng/Banco-de-dados) *Finished*
-- Schedule implementation using servlet and jsp [Java](https://github.com/Erickson-Eng/AgendaServlet) *Finished*
-- Software Testing for a Blood Donation Program [Java](https://github.com/Erickson-Eng/doacao-de-sangue) *Finished*
-- Sport-oriented project [Spring Boot and MySQL](https://github.com/Erickson-Eng/quatty-backend) *Developing*
-- Contact manager with servlet and jsp [Servlet and JSP](https://github.com/Erickson-Eng/Agenda-Servlet) *Finished*
-- Bookstore with JSF and PrimeFaces [JSF and Primefaces](https://github.com/Erickson-Eng/Bookshop-JSF) *Finished*
-- Software Testing Course Project [Java](https://github.com/Erickson-Eng/doacao-de-sangue) *Finished*
-
-### Python
-
-- Chatbots for telemarketing on telegram: [Python and Rasa](https://github.com/Erickson-Eng/PesquisaChatbot) *Finished*
-- Federal Highway Police Data Analysis: [Python and Pandas](https://github.com/Erickson-Eng/Projeto-Estatistica) *Finished*
-
-### HDL
-
-- Digital system in verilog [HDL](https://github.com/Erickson-Eng/VerificacaoSistemaDigitais) *Finished*
-
-### React
-
-- Podcast Application: [React](https://github.com/Erickson-Eng/NLW-5_Reactjs) *Finished*
-
-## My projects use
-
-<div  align="center "> 
-    <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickson-eng&hide=python,html&langs_count=10&theme=dark&layout=compact"/>
-    <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=@cellash&layout=compact&theme=dark">
-</div>
-
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
