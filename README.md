@@ -1,18 +1,123 @@
+# 👋 Olá, eu sou Erickson
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ericksonazevedo.eng) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erickson-eng) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/cellash) 
+<div align="center">
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=erickson-eng&theme=algolia&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=erickson-eng&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=erickson-eng&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+### Desenvolvedor focado em Backend, Arquitetura e Sistemas Escaláveis
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=erickson-eng&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Sobre mim
+
+💻 Desenvolvedor apaixonado por construção de APIs robustas, automações e sistemas distribuídos.
+
+🎯 Foco em:
+- Backend de alta performance
+- Arquitetura de software
+- APIs REST
+- Microsserviços
+- DevOps
+- Automação de processos
+
+📚 Sempre estudando novas tecnologias e boas práticas de engenharia de software.
+
+---
+
+# 🛠️ Stack Principal
+
+## 🚀 Backend
+
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-000?style=for-the-badge&logo=springboot)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+
+---
+
+## 🎨 Frontend
+
+![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
+
+---
+
+## 🗄️ Banco de Dados
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+
+---
+
+## ⚙️ DevOps & Infra
+
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000?style=for-the-badge&logo=githubactions)
+![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
+
+# 🧠 Linguagens Mais Utilizadas
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erickson-Eng&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erickson-Eng&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 Atividade
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erickson-Eng&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erickson-Eng&theme=tokyonight&utcOffset=-3"/>
+
+</div>
+
+# 🧠 Atualmente estudando
+
+- Arquitetura distribuída
+- Microsserviços
+- Kubernetes
+- Mensageria
+- Clean Architecture
+- Performance Backend
+
+---
+
+# 📌 Áreas de Interesse
+
+- APIs robustas
+- Sistemas escaláveis
+- Plataformas SaaS
+- Integrações
+- Automação
+- Infraestrutura
+- Observabilidade
+- Performance
+
+---
+
+# 🌎 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/erickson-eng/">
+  <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:erickson.tulio96@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 “Build scalable systems.”
+
+</div>
